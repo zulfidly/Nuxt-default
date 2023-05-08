@@ -1,0 +1,17 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+server
+.env
+dist
+.DS_Store
+nuxt.config.ts
+package-lock.json
+package.json
+tsconfig.json
+public
+.npmrc
+app.vue
+steps.md
