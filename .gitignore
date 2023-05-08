@@ -5,7 +5,7 @@ node_modules
 .cache
 server
 .env
-dist
+.output
 .DS_Store
 nuxt.config.ts
 package-lock.json
